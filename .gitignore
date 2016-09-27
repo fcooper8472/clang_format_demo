@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+clang_format_demo
+
+#CMake
+CMakeCache.txt
+CMakeFiles
+Makefile
+*.cmake
